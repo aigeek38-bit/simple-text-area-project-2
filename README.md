@@ -1,6 +1,6 @@
 # simple-text-area-project-2
 
-# 📝 Textarea Character Counter application
+# 📝 Textarea Character Counter Application
 
 A simple **HTML & JavaScript character counter** that tracks user input in real time.  
 It displays how many characters have been typed, how many remain, and prevents users from exceeding the maximum character limit.
@@ -25,5 +25,6 @@ It displays how many characters have been typed, how many remain, and prevents u
 - **JavaScript (Vanilla)** – Input event handling and character counting
 
 ---
+
 
 
